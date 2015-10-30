@@ -10,5 +10,8 @@ There are a couple of invisible "options" for each widget as well, such as openi
 ## Demo
 <a href="https://raw.githubusercontent.com/676339784/676339784.github.io/master/KLWP/Yuan/SCR_20151021_184839.mp4">MP4</a>
 
-## Picture
-<img src="https://raw.githubusercontent.com/676339784/676339784.github.io/master/KLWP/Yuan/Combined%20Yuan%20Scrot.png" width 600>
+### Dark Variant
+<img src="https://raw.githubusercontent.com/676339784/676339784.github.io/master/KLWP/Yuan/mg2xG.png" width=350>
+
+### Light Variant
+<img src="https://raw.githubusercontent.com/676339784/676339784.github.io/master/KLWP/Yuan/yjbmpz.png" width=350>
