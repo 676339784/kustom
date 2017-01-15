@@ -8,7 +8,7 @@ The triangle app launcher is not a Kustom action as I thought it was laggy. Inst
 There are a couple of invisible "options" for each widget as well, such as opening lyric apps and force updating weather. Make sure to look over them. 
 
 ## Demo
-<a href="https://raw.githubusercontent.com/676339784/676339784.github.io/master/KLWP/Yuan/SCR_20151021_184839.mp4">MP4</a>
+<a href="https://u.sicp.me/qtQbd.webm">WebM</a>
 
 ### Dark Variant
 <img src="https://raw.githubusercontent.com/676339784/676339784.github.io/master/KLWP/Yuan/mg2xG.png" width=350>
