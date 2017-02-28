@@ -1,4 +1,4 @@
 # kustom
 My KLWP
 
-Import to .zip files to ~/Kustom/wallpapers
+Import to .zip or .klwp files to ~/Kustom/wallpapers
