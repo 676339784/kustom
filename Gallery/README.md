@@ -3,6 +3,8 @@
 ## Description
 Make your own art gallery on your phone. A simple setup so it's easy to experiment with color schemes and fonts.
 
+I've set on-tap functions for the text so be sure to give that a look.
+
 ## Pictures
 
 ### Font used: Gotham Rounded
