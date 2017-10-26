@@ -17,6 +17,8 @@ My config:
 
 If you want to change the home wallpaper, just poke around in that section -- I labeled all the Komponents for reference.
 
-## Screenshot
+## Screenshots
 
-<img src="https://raw.githubusercontent.com/676339784/676339784.github.io/master/KLWP/Wop/Wop.png" width=550>
+<img src="https://github.com/676339784/kustom/blob/master/Wop/Wop.png" width=550>
+
+<img src="https://github.com/676339784/kustom/blob/master/Wop/Combined%202.png" width=550>
