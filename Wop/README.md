@@ -3,7 +3,7 @@
 ## Description
 Two screens, one one and one music.
 
-Be sure to look for all the on-tap functions I've set. I'm personally using things like QuickLyric for lyrics as an example -- make sure to change the button for that to open an app of your choosing if you don't use that.
+Be sure to look for all the on-tap functions I've set. I'm personally using things like QuickLyric for lyrics as an example -- make sure to change the button for that to open an app of your choosing if you don't use the same app as I do.
 
 My config:
   - Home:
