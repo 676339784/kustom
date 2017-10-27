@@ -5,6 +5,8 @@ Named for my pal on IRC! Just a venture back into mobile ricing as I haven't don
 
 Fonts used are Times New Roman and Circular.
 
+As an additional note, the dock is _not_ done in KLWP. Use Nova Launcher and make a scrollable dock to replicate that functionality.
+
 ## WebMs
 
 [Roses](https://raw.githubusercontent.com/676339784/676339784.github.io/master/KLWP/Stretchy/roses.webm)
