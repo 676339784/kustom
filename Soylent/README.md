@@ -5,4 +5,4 @@ SOY!
 
 ## Pictures
 
-<img src="https://raw.githubusercontent.com/676339784/676339784.github.io/master/KLWP/Soylent/soylent.png" width=550>
+<img src="https://raw.githubusercontent.com/676339784/kustom/master/Soylent/soylent.png" width=550>
